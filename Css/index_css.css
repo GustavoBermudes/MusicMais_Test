@@ -1,0 +1,8 @@
+*{
+    padding: 0;
+    border: 0;
+}
+html, body{
+    --Black--on--Background: rgb(18, 18, 18);
+    background-color: var(--Black--on--Background);
+}
